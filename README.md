@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Janaardan
-- 👀 I’m interested in coding
-- 🌱 I’m currently studing in class 10th
-- 📫 How to reach me, you can reach me through my instagram id @4xbans
-- ⚡ Fun fact: I am mad 
-
-<!---
-Janaarda/Janaarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A student with a deep passion for coding. I am fascinated by how technology transforms ideas into reality, and I constantly strive to expand my knowledge in programming. With curiosity, dedication, and a strong interest in innovation, I am working toward building a future in the world of technology.
